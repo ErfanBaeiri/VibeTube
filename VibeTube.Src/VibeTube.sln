@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeTube.Web", "VibeTube.Web\VibeTube.Web.csproj", "{5085B76A-EF5D-4B89-A37C-173738CED366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5085B76A-EF5D-4B89-A37C-173738CED366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5085B76A-EF5D-4B89-A37C-173738CED366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5085B76A-EF5D-4B89-A37C-173738CED366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5085B76A-EF5D-4B89-A37C-173738CED366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3CBC60C-B823-49C0-AD05-956BAAC28540}
+	EndGlobalSection
+EndGlobal
